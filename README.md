@@ -1,8 +1,5 @@
 ## Songmoney Core 0.18.1.L
 
-
-* Hardfork to new codebase occurs at block 1,801,000, however Songmoney 0.13 and 0.18 wallets will be compatible until this point.
-
 * This new version comes with Likes and SongWord.
 
 * PoW algorithm is Scrypt.
@@ -78,4 +75,5 @@ _____
 ### RPC PORT 44663 / P2P PORT 44664
 
 #### Songmoney started as an early Dogecoin fork (0.6), was upgraded over time to the Litecoin codebase (0.8), since progressing through to a much more modern Litecoin 0.10 codebase - and finally to current platform of Litecoin 0.18.1 with segwit. Built with tomorrow in mind.
+
 
